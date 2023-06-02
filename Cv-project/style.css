@@ -1,0 +1,96 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-color:#eee;
+   font-family: 'Roboto', sans-serif;
+}
+.container{
+   background-color:#a7ecf1;
+   max-width: 900px;
+   margin: 0 auto;
+   padding: 20px;
+   
+}
+header{
+
+}
+.img-p{
+   border: 3px solid #eee;
+   border-radius: 50%;
+   height: 120px;
+   width: 100px;
+   float: left;
+   
+}
+.name-sec{
+   
+   
+   float: left;
+   padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+   color:#11999e;
+}
+
+.div-clear{
+   clear:both;
+   
+}
+hr{
+   
+   margin:20px auto;
+   width:100%;
+   border:3px solid black;
+   border-bottom:none;
+}
+.contact{
+   float:right;
+   padding:30px;
+   
+}
+.contact p a{
+   text-decoration:none;
+   color: teal;
+   font-weight: bold;
+}
+.contact p a:hover{
+ text-decoration:underline;
+ color:tomato;
+}
+p{
+   font-weight:bold;
+}
+/*Personal section*/
+#personal-section{
+
+}
+.left-div{
+float:left;
+width:30%;
+}
+.right-div{
+float:right;
+width:70%;
+}
+.common-hr{
+   border: solid black 1px;
+   border-bottom: none;
+   width:100%;
+   margin:20px auto;
+}
+.content{
+   margin-bottom:30px;
+}
+/*education section design*/
+
+.right-temp{
+   float:right;
+   width:45%;
+   
+}
+.left-temp{
+   float:left;
+   width:45%
+}
